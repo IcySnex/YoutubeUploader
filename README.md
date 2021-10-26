@@ -8,7 +8,7 @@ This powerful tool lets you upload videos to youtube fully automated with all fe
 - Load videos via single file/folder or drag and drop
 - Edit Title/Description/Tags
 - Set thumbnail
-- Inser video into multiple queues
+- Inser video into multiple playlists
 - String options (Replace every occernce of specific {keyword} with substring gets replaced based on filename)
 - Progressbar to show upload progress
 

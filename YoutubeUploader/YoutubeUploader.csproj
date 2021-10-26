@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <SignAssembly>false</SignAssembly>
+	<Version>2.0</Version>
+    <Authors>IcySnex</Authors>
+    <Company>Snex</Company>
+    <Description>An external Youtube-Video Uploader created for bulk uploading.</Description>
+    <Copyright>IcySnex ©2021</Copyright>
+    <RepositoryUrl>https://github.com/IcySnex/YoutubeUploader</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/IcySnex/YoutubeUploader</PackageProjectUrl>
+    <PackageTags>youtube; youtube api;</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.YouTube.v3" Version="1.55.0.2449" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.2.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+</Project>

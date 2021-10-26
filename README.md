@@ -2,7 +2,7 @@
 An external Youtube-Video Uploader created for bulk uploading.
 This powerful tool lets you upload videos to youtube fully automated with all features Youtube has to offer.
 
-# Featers:
+# Features:
 - Multiple Accounts you can switch
 - Queue for bulk uploads
 - Load videos via single file/folder or drag and drop

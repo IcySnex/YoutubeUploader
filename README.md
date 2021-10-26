@@ -31,7 +31,7 @@ Menu:
 ![menu](https://github.com/IcySnex/YoutubeUploader/raw/main/screenshots/inside.PNG)
 
 String Options:     
-![menu](https://github.com/IcySnex/YoutubeUploader/raw/main/screenshots/stropt.PNG)
+![stropt](https://github.com/IcySnex/YoutubeUploader/raw/main/screenshots/stropt.png)
 
 Homepage: 
 ![home](https://github.com/IcySnex/YoutubeUploader/raw/main/screenshots/home.PNG)

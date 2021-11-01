@@ -82,7 +82,7 @@ namespace YoutubeUploader
                                     await tr.UploadAsync(ct);
                                 }
                             }
-                            if (playlists.Length > 0)
+                            if (playlists.Length > 1)
                             {
                                 win.lb_state.Text = "Adding video to playlist(s)..."; win.pg_state.Value = win.pg_state.Maximum;
                                 foreach (string pl in playlists)

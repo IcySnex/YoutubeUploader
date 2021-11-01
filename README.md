@@ -2,13 +2,13 @@
 An external Youtube-Video Uploader created for bulk uploading.
 This powerful tool lets you upload videos to youtube fully automated with all features Youtube has to offer.
 
-# Featers:
+# Features:
 - Multiple Accounts you can switch
 - Queue for bulk uploads
 - Load videos via single file/folder or drag and drop
 - Edit Title/Description/Tags
 - Set thumbnail
-- Inser video into multiple queues
+- Inser video into multiple playlists
 - String options (Replace every occernce of specific {keyword} with substring gets replaced based on filename)
 - Progressbar to show upload progress
 
@@ -31,7 +31,7 @@ Menu:
 ![menu](https://github.com/IcySnex/YoutubeUploader/raw/main/screenshots/inside.PNG)
 
 String Options:     
-![menu](https://github.com/IcySnex/YoutubeUploader/raw/main/screenshots/stropt.PNG)
+![stropt](https://github.com/IcySnex/YoutubeUploader/raw/main/screenshots/stropt.png)
 
 Homepage: 
 ![home](https://github.com/IcySnex/YoutubeUploader/raw/main/screenshots/home.PNG)
